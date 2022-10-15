@@ -1,2 +1,2 @@
 # st_ls
-python selenium rep
+python selenium repository
